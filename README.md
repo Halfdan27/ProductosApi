@@ -16,6 +16,7 @@ Esta es una API REST en .NET 9 para gestionar productos con operaciones básicas
 git clone https://github.com/RomanNaimanSocius/ProductosApi
 git cd ProductosApi
 ```
+usar el cd si se esta trabajando desde CMD si esta en visual puede omitir esa parte
 
 ### Configurar la base de datos
 Abrir `appsettings.json` y editar la configuración del servidor:
