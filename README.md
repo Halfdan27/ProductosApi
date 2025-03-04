@@ -65,7 +65,7 @@ DELETE /api/productos/{id}
 
 se pueden probar los endpoints con Postman o con Swagger(agregar "/swagger" luego del localhost que te de al correr la app":
 
-[https://localhost:xxxx/swagger)
+https://localhost:xxxx/swagger
 
 
 
