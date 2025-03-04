@@ -28,7 +28,7 @@ Es opcional cambiar el nombre del servidor.
 ### Ejecutar migraciones
 ```bash
 Add-Migration Inicio
-Updatate-Database
+Update-Database
 ```
 
 ### Ejecutar la API
