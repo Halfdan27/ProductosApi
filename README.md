@@ -31,10 +31,7 @@ Updatate-Database
 ```
 
 ### Ejecutar la API
-```bash
-dotnet run
-```
-O en visual estudio code precionar CTRL + F5
+Rn visual estudio code precionar CTRL + F5
 
 ## Endpoints principales
 
