@@ -31,7 +31,7 @@ Updatate-Database
 ```
 
 ### Ejecutar la API
-Rn visual estudio code precionar CTRL + F5
+En visual estudio code precionar CTRL + F5
 
 ## Endpoints principales
 
