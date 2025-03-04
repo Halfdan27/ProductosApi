@@ -26,13 +26,15 @@ Es necesario cambiar el host del servidor y es opcional cambiar le nombre del se
 
 ### Ejecutar migraciones
 ```bash
-dotnet ef database update
+Add-Migration Inicio
+Updatate-Database
 ```
 
 ### Ejecutar la API
 ```bash
 dotnet run
 ```
+O en visual estudio code precionar CTRL + F5
 
 ## Endpoints principales
 
