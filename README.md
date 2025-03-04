@@ -23,7 +23,7 @@ Abrir `appsettings.json` y editar la configuración del servidor:
 ```json
 "DefaultConnection": "Server=Halfdan;Database=WebApiProductosDB;Integrated Security=True;TrustServerCertificate=True"
 ```
-Es necesario cambiar el host del servidor y es opcional cambiar le nombre del servidor.
+Es opcional cambiar el nombre del servidor.
 
 ### Ejecutar migraciones
 ```bash
